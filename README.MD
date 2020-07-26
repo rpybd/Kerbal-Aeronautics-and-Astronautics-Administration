@@ -1,1 +1,2 @@
 Kerbal Aeronautics and Astronautics Administration(KAAA) 是Kerbin最重要也是规模最庞大的机构之一，负责制定、执行Kerbin的航空航天计划，并开展航空科学和航天科学的研究。KAAA的目的是通过探索Kerbin及太空以发展空天科学并最终帮助Kerbals踏足乃至走向深空，同时其还具有向外界承接空天任务、向大众宣传普及航空航天知识等职能。
+本WIKI旨在全面地介绍KAAA。
